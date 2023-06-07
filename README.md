@@ -1,2 +1,7 @@
 # thingamajig
 thing
+thingabing
+thingabingmading
+thingabingmadingling
+thingabingmadinglingching
+thingabingmadinglingchingging
